@@ -1,7 +1,7 @@
 ## Application Details
 |               |
 | ------------- |
-|**Generation Date and Time**<br>Sun Sep 01 2024 18:48:08 GMT+0530 (India Standard Time)|
+|**Generation Date and Time**<br>Sun Sep 01 2024 19:10:38 GMT+0530 (India Standard Time)|
 |**App Generator**<br>@sap/generator-fiori-elements|
 |**App Generator Version**<br>1.14.2|
 |**Generation Platform**<br>Visual Studio Code|
@@ -9,7 +9,7 @@
 |**Service Type**<br>Local Cap|
 |**Service URL**<br>http://localhost:4004/odata/v4/cars/|
 |**Module Name**<br>cars|
-|**Application Title**<br>data|
+|**Application Title**<br>model|
 |**Namespace**<br>com.mani.chand|
 |**UI5 Theme**<br>sap_horizon|
 |**UI5 Version**<br>1.127.1|

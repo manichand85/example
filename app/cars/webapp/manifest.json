@@ -13,7 +13,7 @@
     "sourceTemplate": {
       "id": "@sap/generator-fiori:lrop",
       "version": "1.14.2",
-      "toolsId": "0d063472-4b20-4a73-b348-8dee7c4bef26"
+      "toolsId": "c5574b8a-368d-4201-a5bb-6ee4e1baca32"
     },
     "dataSources": {
       "mainService": {
@@ -117,12 +117,12 @@
                     "type": "ResponsiveTable"
                   },
                   "actions": {
-                    "choice": {
-                      "press": "com.mani.chand.cars.ext.choice.choice.yours",
+                    "upload": {
+                      "press": "com.mani.chand.cars.ext.upload.upload.upload",
                       "visible": true,
                       "enabled": true,
                       "requiresSelection": false,
-                      "text": "REPLACE_WITH_BUTTON_TEXT"
+                      "text": "Upload"
                     }
                   }
                 }

@@ -19,6 +19,7 @@
     "watch-cars": "cds watch --open cars/webapp/index.html?sap-ui-xx-viewCache=false"
   },
   "sapux": [
+    "app/cars",
     "app/cars"
   ]
 }
